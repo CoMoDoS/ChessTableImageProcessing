@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  BlackBishop.cpp
+  BlackKing.cpp
+  BlackKnight.cpp
+  BlackPawn.cpp
+  BlackQueen.cpp
+  BlackRook.cpp
+  common.cpp
+  Empty.cpp
+  OpenCVApplication.cpp
+  Piece.cpp
+  WhiteBishop.cpp
+  WhiteKing.cpp
+  WhiteKnight.cpp
+  WhitePawn.cpp
+  WhiteQueen.cpp
+  WhiteRook.cpp
+  Generating code
+  All 263 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenCVApplication.vcxproj -> F:\Faculta\An3Sem2\PI\ProjTest\OpenCVApplication-VS2015_OCV31_basic\x64\Release\OpenCVApplication.exe
+  OpenCVApplication.vcxproj -> F:\Faculta\An3Sem2\PI\ProjTest\OpenCVApplication-VS2015_OCV31_basic\x64\Release\OpenCVApplication.pdb (Full PDB)
+  OpenCV\dll\Release\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Release\opencv_world310.dll
+          2 file(s) copied.
